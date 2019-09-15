@@ -1,0 +1,17 @@
+Hi ${firstName},
+
+Thanks for getting in touch with us about your favourite fruit! I'm very glad to hear that you enjoy ${favouriteFruit} as much as we do!
+
+I am a big fan of the ${lastName} family, so let me know if you have any questions or concerns about this topic.
+
+Sincerely,
+
+Murtaza Latif
+VP Communications
+
+
+https://facebook.com/engsci.club
+https://twitter.com/engsciclub
+https://www.linkedin.com/company/engineering-science-club
+https://instagram.com/engsciclub/
+https://www.youtube.com/channel/UC34h24LFmKdwCKd8t1t2zEA

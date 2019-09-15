@@ -1,0 +1,51 @@
+{
+    "subject": "5 Event Test email using JSON.",
+    "cards": [
+        {
+            "imgT": "https://picsum.photos/1000/400",
+            "color": "#f3c1f3",
+            "headline": "This is headline numero uno!",
+            "body": "Welcome to the first event. This paragraph outlines some details for the first event, but I will now use a newline.\nThis newline has occurred.",
+            "button": {
+                "text": "Click me #1!",
+                "href": "https://www.google.com"
+            },
+            "plaintext_link": "Visit me at https://www.google.com"
+        },
+        {
+            "color": "#8856FF",
+            "headline": "Second event here.",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tmepor incididunt ut labore et dolore magna aliqua. My name is jeff.",
+            "button": {
+                "text": "Don't click me.",
+                "href": "https://www.google.com"
+            },
+            "plaintext_link": "Join the club at https://www.google.com"
+        },
+        {
+            "img3": "https://picsum.photos/500/300",
+            "color": "#08274B",
+            "headline": "no button!!!",
+            "body": "Wow. There really is no link for this event. That's very unfortunate. Instead, I'll give a link here. https://www.google.com"
+        },
+        {
+            "headline": "ok lets put that button back",
+            "body": "it was actually getting quite lonely. it's okay mr. button. here you are",
+            "button": {
+                "text": "hi again!",
+                "href": "https://www.google.com"
+            },
+            "plaintext_link": "Say hello again at https://www.google.com"
+        },
+        {
+            "img3": "https://picsum.photos/500/300",
+            "headline": "last event",
+            "body": "okay wow there's a lot of stuff in this newsletter! i can't believe you fit this many things so easily.",
+            "button": {
+                "text": "ok last event",
+                "href": "https://www.google.com"
+            },
+            "plaintext_link": "See the last event at https://www.google.com"
+        }
+    ]
+}

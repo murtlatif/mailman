@@ -1,7 +1,0 @@
-Hi ${firstName} ${lastName},
-
-Oh cog. I know you like ${favouriteFruit}
-
-Sincerely,
-
-Pepek
